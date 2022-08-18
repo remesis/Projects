@@ -1,0 +1,2 @@
+[F1] Inputs: (2,3) -- Output: 2.82843
+[F8] Input: (3,4,6,7) Equation: -3x+3y-3= 0
